@@ -1,6 +1,6 @@
 # Olá, me chamo Giancarlo Lencioni de Castro 👋
 
-## Sou um Programador Web iniciante com conhecimentos em HTML, CSS, JavaScript e outras tecnologias essenciais para o desenvolvimento web 💻 
+## Sou um Programador Web iniciante com conhecimentos em HTML, CSS, JavaScript e outras tecnologias essenciais para o desenvolvimento web 👨🏻‍💻 
 <br><br/>
 
 ## Ferramentas e Tecnologias:
